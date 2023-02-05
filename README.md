@@ -1,4 +1,4 @@
-### Olá, Sou elisa 👋
+### Olá, Sou Elisa estudande de Engenharia de Produção
 
 👩‍💻 Atualmente trabalho na área de planejamento e criação de paineis, na ferramenta Power BI, para tomada de decições.
 📗No tempo livre gosto de estudar linguagem de programação e aprender outros idiomas.
